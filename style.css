@@ -1,0 +1,30 @@
+.title{
+    font-size: 50;
+    font-weight: 300;
+    color: blue;
+    text-align: center;
+    
+
+  }
+  .header1{
+      font-size: 20;
+      font-weight:200;
+      color: black;
+      text-align: center;
+  }
+  .header2{
+    font-size: 40;
+    font-weight:200;
+    color: green;
+    text-align: center;
+    padding: 50px;
+    text-decoration:underline;
+}
+.header3{
+    font-size: 30;
+    font-weight:150;
+    color: black;
+    text-align:left;
+    margin-left: 200px;
+    text-decoration:underline;
+}
